@@ -4,11 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cyb3rhash&label=Profile%20views&color=0e75b6&style=flat" alt="cyb3rhash" /> </p>
 
 <p align="center">
-  <img src="https://media.gifdb.com/images/high/gb0b3z4ka5se6m8g.gif" alt="Hacker GIF" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://your-direct-link-to-the-gif.gif" alt="In a World of Hackers GIF" width="500"/>
+  <img src="https://i.pinimg.com/originals/a3/53/95/a353951959748e7f9b703b5c4131de25.gif" alt="Hacker GIF" width="500"/>
 </p>
 
 ---
@@ -41,8 +37,8 @@ I’m a **Code Ninja** and **Cyber Sentinel**, currently diving deep into the wo
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40" height="40"/>
-  <img src="https://iconduck.com/icons/152699/wireshark" alt="Wireshark" width="40" height="40"/> <!-- Replace with direct Wireshark icon link -->
-  <img src="https://example.com/path-to-your-burp-suite-icon.png" alt="Burp Suite" width="40" height="40"/> <!-- Replace with direct Burp Suite icon link -->
+  <img src="https://i.pinimg.com/564x/ce/74/86/ce748636c926281be80dd7deefcdfd1e.jpg" alt="Wireshark" width="40" height="40"/> <!-- Wireshark Icon -->
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/burp_suite_alt_macos_bigsur_icon_190318.png" alt="Burp Suite" width="40" height="40"/> <!-- Burp Suite Icon -->
 </p>
 
 ### Databases
@@ -92,5 +88,6 @@ I’m always open to collaboration! Let’s chat about tech, ethical hacking, or
 ---
 
 Thank you for visiting my lair! 🔐 Let's conquer the cyber world together!
+
 
 
