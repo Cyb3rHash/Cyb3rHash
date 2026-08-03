@@ -1,93 +1,144 @@
-<h1 align="center">Welcome to My Cyber Lair 👾</h1>
-<h3 align="center">I'm Harish, an Ethical Hacker and Tech Aficionado from VIT Chennai</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cyb3rhash&label=Profile%20views&color=0e75b6&style=flat" alt="cyb3rhash" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0f2818,100:00ff9c&height=230&section=header&text=Cyb3rHash&fontSize=70&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Cybersecurity%20%7C%20Agentic%20Systems&descAlignY=58&descAlign=50&descColor=8effc1" width="100%"/>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/a3/53/95/a353951959748e7f9b703b5c4131de25.gif" alt="Hacker GIF" width="500"/>
-</p>
+<a href="https://github.com/Cyb3rHash">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=210&lines=root%40harish%3A~%24+whoami;M.Sc.+AI%2FML+%40+VIT+Vellore;Agentic+AI+%C2%B7+Deep+RL+%C2%B7+MLOps+%C2%B7+SecOps;Aspiring+DRDO+Intern+%F0%9F%87%AE%F0%9F%87%B3+%7C+Defence+%26+Geopolitics+enthusiast" alt="Typing SVG" />
+</a>
+<br/>
+<br/>
+<br/>
 
----
-
-## 💻 About Me
-
-I’m a **Code Ninja** and **Cyber Sentinel**, currently diving deep into the world of **cybersecurity** as a **Computer Science** student at **VIT Chennai**. I thrive on the thrill of **finding vulnerabilities**, **patching systems**, and enhancing the digital landscape. With a passion for both **development** and **ethical hacking**, I’m dedicated to safeguarding the cyber world.
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="40" height="40"/>
-</p>
-
-### Web and Scripting
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-</p>
-
-### Cybersecurity Tools
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40" height="40"/>
-  <img src="https://i.pinimg.com/564x/ce/74/86/ce748636c926281be80dd7deefcdfd1e.jpg" alt="Wireshark" width="40" height="40"/> <!-- Wireshark Icon -->
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/burp_suite_alt_macos_bigsur_icon_190318.png" alt="Burp Suite" width="40" height="40"/> <!-- Burp Suite Icon -->
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-</p>
-
----
-
-## 🚀 Projects
-
-🔗 **[XploitGuard](https://github.com/cyb3rhash/xploitguard)**: A security tool designed to detect and guard against common web vulnerabilities using Python and Burp Suite.
-
-🔗 **[ReconPro](https://github.com/cyb3rhash/reconpro)**: A reconnaissance tool for ethical hackers that automates information gathering on target systems.
-
-🔗 **[CyberWall](https://github.com/cyb3rhash/cyberwall)**: A lightweight firewall implementation in Python to monitor and control network traffic.
-
----
-
-## 📚 Continuous Learning
-
-- **CTF Competitions**: Actively participate in **Capture the Flag** challenges to sharpen my skills in real-world scenarios.
-- **Bug Bounty Programs**: Contribute to bug bounty programs, focusing on web application vulnerabilities.
-- **Ongoing Certifications**: Pursuing certifications like **OSCP (Offensive Security Certified Professional)** to deepen my cybersecurity expertise.
-
----
-
-## 🌐 Let's Connect
-
-I’m always open to collaboration! Let’s chat about tech, ethical hacking, or open-source projects.
-
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-handle)
-- [Dev.to](https://dev.to/cyb3r_hash)
-- [Medium](https://medium.com/@cyberhash)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyb3rhash&show_icons=true&locale=en" alt="cyb3rhash" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3rhash&" alt="cyb3rhash" />
-</p>
-
----
-
-Thank you for visiting my lair! 🔐 Let's conquer the cyber world together!
+<br/>
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Cyb3rHash&color=00ff9c&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/Cyb3rHash?label=FOLLOWERS&style=for-the-badge&color=00ff9c&labelColor=0d1117)](https://github.com/Cyb3rHash?tab=followers)
 
+</div>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyb3rHash&theme=github-dark&hide_border=true&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c" width="100%"/>
+
+<br/>
+
+## `> whoami`
+
+```
+Name        : Harish V
+Handle      : Cyb3rHash
+Education   : M.Sc. Artificial Intelligence & Machine Learning — VIT Vellore
+              B.Sc. Computer Science (AI/ML Specialization)
+Experience  : Internships @ DT3 & Kavia AI — AI-powered application development,
+              agile engineering, full-stack product delivery
+Philosophy  : "The best way to learn is by building."
+Goal        : Intern @ DRDO 🇮🇳 — contribute to defence & national security tech
+```
+
+<br/>
+
+## `> focus_areas.yaml`
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="20%">🤖<br/><b>AI / ML</b><br/><sub>Deep Learning · RL</sub></td>
+<td align="center" width="20%">🕸️<br/><b>Agentic AI</b><br/><sub>LLMs · Autonomous Agents</sub></td>
+<td align="center" width="20%">🛡️<br/><b>Cybersecurity</b><br/><sub>SecOps · Secure Systems</sub></td>
+<td align="center" width="20%">⚙️<br/><b>MLOps</b><br/><sub>AI Infrastructure</sub></td>
+<td align="center" width="20%">🌐<br/><b>Full-Stack</b><br/><sub>Web · System Design</sub></td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Also exploring: Data Science · System Design · Algorithms & Problem Solving</sub>
+</div>
+
+<br/>
+
+## `> tech_stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp,js,ts,react,nodejs,docker,kubernetes,git,linux,aws,mongodb,postgres,flask,fastapi&theme=dark&perline=9" />
+
+</div>
+
+<br/>
+
+## `> github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Cyb3rHash&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&ring_color=00ff9c" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyb3rHash&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rHash&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" width="60%"/>
+
+</div>
+
+<br/>
+
+## `> trophy_case`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Cyb3rHash&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&row=1" />
+
+</div>
+
+<br/>
+
+## `> leetcode`
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/H4ri5h?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="65%"/>
+
+</div>
+
+<br/>
+
+## `> contribution_snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Cyb3rHash/Cyb3rHash/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Animated snake eating your contribution graph — activates once the GitHub Action below runs on your repo.</sub>
+
+</div>
+
+<br/>
+
+## `> connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Cyb3rHash-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0d1117)](https://github.com/Cyb3rHash)
+[![LeetCode](https://img.shields.io/badge/LeetCode-H4ri5h-00ff9c?style=for-the-badge&logo=leetcode&logoColor=00ff9c&labelColor=0d1117)](https://leetcode.com/H4ri5h)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_ID-00ff9c?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0d1117)](https://linkedin.com/in/YOUR_LINKEDIN_ID) <!-- add LinkedIn ID -->
+[![Instagram](https://img.shields.io/badge/Instagram-Add_ID-00ff9c?style=for-the-badge&logo=instagram&logoColor=00ff9c&labelColor=0d1117)](https://instagram.com/YOUR_INSTAGRAM_ID) <!-- add Instagram ID -->
+[![Email](https://img.shields.io/badge/Email-Add_ID-00ff9c?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117)](mailto:YOUR_EMAIL) <!-- add email -->
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## `> beyond_the_terminal`
+
+Deeply interested in **defence technology** and **geopolitics** — admire the work of **DRDO** and am actively working toward interning there. Off duty, following aviation and strategic affairs the way others follow sports.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00ff9c,50:0f2818,100:0d1117&height=120&section=footer" width="100%"/>
+
+<sub>Consistency · Curiosity · Disciplined Practice</sub>
+
+</div>
