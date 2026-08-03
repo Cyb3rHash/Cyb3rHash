@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically every day at midnight UTC
+  workflow_dispatch: # Allows you to run the workflow manually from the Actions tab
+
+# Needed to push the generated files back to the repository
+permissions:
+  contents: write
+
+jobs:
+  generate-snake-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk@v3.5.0
+        with:
+          github_user_name: Cyb3rHash
+          outputs: |
+            assets/github-snake.svg?palette=github&color_snake=#2cb67d
+            assets/github-snake-dark.svg?palette=github-dark&color_snake=#7f5af0
+            assets/github-snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update snake animation [skip ci]"
+          file_pattern: assets/*
